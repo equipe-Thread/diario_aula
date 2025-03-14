@@ -1,0 +1,17 @@
+Diário de Aula 13/03
+
+Primeiro contato com DART e FLUTTER
+
+Realizamos uma atividade para aprimorar a lógica de programação, aplicar os conceitos de POO e boas práticas de programação.
+
+
+Notes:
+Para nomeação de arquivos, o flutter utiliza snake case
+
+stdin.readLineSync() é utilizado para receber uma entrada de usuário pelo terminal.
+
+Utilizar String ou var para stdin, pois ele retorna uma string.
+
+! é utilizado para indicar que a função readLineSync() não retornará nulo
+
+? é utilizado para indicar que a variavel pode receber valor nulo
