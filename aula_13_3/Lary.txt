@@ -1,0 +1,3 @@
+Diário de Aula 13/03
+
+Criação de projeto fluuter junto com professor e desenvolvendo uma atividade para aplicar os conceitos de POO e boas práticas de programação.
